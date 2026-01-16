@@ -1,0 +1,18 @@
+{
+    "dataset": {
+        "name": ,
+        "description": "Optimal Parameters"
+    },
+    "gbpa": {
+        "p_threshold": 0.3
+    },
+    "fcm": {
+        "max_clusters": 10,
+        "max_iter": 100,
+        "min_improv": 1e-5,
+        "m_exponent": 2.0
+    },
+    "fgs": {
+        "B_monte_carlo": 20
+    }
+}
